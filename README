@@ -1,0 +1,3 @@
+This implementation of a Linked List in python was written on 4/27/14 for Google Jump. I don't have much experience with data structures in Python since MSU primarily teaches data structures in object oriented languages like C++. Over the next few days, I will be coding a variety of data structures in Python and pushing the code to further my own knowledge and interview skills.
+
+The next steps for this code is to allow complex built-in data structures to work within the list. Right now, only ints, floats, and strings can be in the list. Also, some additional functions may be added.
